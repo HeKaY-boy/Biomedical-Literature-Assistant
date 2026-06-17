@@ -125,15 +125,15 @@ Retriever + Generator
 ---
 
 Current Status
+* PubMed Data Collection
+* EDA
+* Embeddings
+* Semantic Search
+* Top-K Retrieval
+* Context Builder
+* FLAN-T5 Integration
+* First End-to-End RAG Pipeline
 
-PubMed Data Collection
-EDA
-Embeddings
-Semantic Search
-Top-K Retrieval
-Context Builder
-FLAN-T5 Integration
-First End-to-End RAG Pipeline
 
 Next Improvements
 

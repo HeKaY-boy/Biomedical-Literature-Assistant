@@ -1,8 +1,6 @@
 from Bio import Entrez
 import pandas as pd
 
-Entrez.email = "hekaybob5522@gmail.com"
-
 def search_pubmed(search_term, retmax=100):
     
     handle = Entrez.esearch(
